@@ -1,4 +1,4 @@
-Burlacu Andrei 312 CB
+
 
  Programul implementeaza un arbore de sufixe, pornind de la mai multe cuvinte citite. Afiseaza arborele de sufixe, calculeaza numarul de frunze,
  numarul de sufixe de o anumita lungime si numarul maxim de fii ai unui nod din arbore. Totodata, verifica daca un anumit sufix apare sau nu arbore.
